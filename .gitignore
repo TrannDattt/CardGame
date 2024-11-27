@@ -11,9 +11,9 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-Radius/*.csproj
-Radius/*.unityproj
-Radius/*.sln
+CardGame/*.csproj
+CardGame/*.unityproj
+CardGame/*.sln
 
 # User-specific files
 *.rsuser
