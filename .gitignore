@@ -11,6 +11,10 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+Radius/*.csproj
+Radius/*.unityproj
+Radius/*.sln
+
 # User-specific files
 *.rsuser
 *.suo
